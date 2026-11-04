@@ -1,0 +1,11 @@
+# Credencials i claus: mai
+*.pfx
+*.pem
+*.key
+*.p12
+.env
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
